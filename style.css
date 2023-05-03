@@ -48,7 +48,7 @@ img {
 }
 
 .bottom p {
-  font-weight: 600;
+  font-weight: bold;
 }
 .image_put::after {
   opacity: 1;
