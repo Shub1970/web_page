@@ -31,7 +31,7 @@ img {
   font-size: 20px;
 }
 .image_put {
-  padding-top: 130px;
+  padding-top: 40px;
   width: 100%;
   background-color: #d9eeef;
   display: flex;
@@ -45,6 +45,8 @@ img {
   padding-bottom: 40px;
   background-color: #01a2a6;
   text-align: center;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .bottom p {
