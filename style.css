@@ -1,3 +1,6 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+</style>
 * {
   box-sizing: border-box;
   padding: 0px;
@@ -64,6 +67,18 @@ img {
   font-weight: bold;
   color: #2f8a12;
   animation: blinker 2s ease-in infinite;
+}
+.image_put::after {
+  opacity: 1;
+  content: "05/07/2023 to 04/08/2023";
+  position: relative;
+  left: 85px;
+  bottom: 200px;
+  display: block;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;  
+  color: red;
 }
 @keyframes blinker {
   100% {
