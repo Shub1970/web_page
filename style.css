@@ -72,11 +72,12 @@ img {
 .valid{
 font-family: 'Open Sans', sans-serif;
     color: red;
-    top: 491px;
+    top: 492px;
     font-weight: bold;
     right: 21px;
     position: absolute;
     font-size: 19px;
+  letter-spacing: -1px;
 }
 @keyframes blinker {
   100% {
