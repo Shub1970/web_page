@@ -75,7 +75,7 @@ img {
   top: -201px;
   font-weight: bold;
   right: -69px;
-  position: relative;
+  position: absolute;
   font-size: 19px;
 }
 @keyframes blinker {
