@@ -69,7 +69,11 @@ img {
   color: #2f8a12;
   animation: blinker 2s ease-in infinite;
 }
-
+.valid{
+  font-family: 'Open Sans', sans-serif;
+  color:red;
+  font-size:21px;
+}
 @keyframes blinker {
   100% {
     opacity: 0;
