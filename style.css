@@ -65,7 +65,7 @@ img {
   content: "7507042350138";
   position: relative;
   left: 74px;
-  bottom: 223px;
+bottom: 235px;
   display: block;
   font-size: 25px;
   font-weight: bold;
@@ -75,9 +75,9 @@ img {
 .valid{
 font-family: 'Open Sans', sans-serif;
     color: red;
-    top: 492px;
-    font-weight: bold;
-    right: 40px;
+    top: 539px;
+    font-weight: bolder;
+    right: 58px;
     position: absolute;
     font-size: 19px;
   letter-spacing: -1px;
