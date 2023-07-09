@@ -68,7 +68,7 @@ img {
   color: #2f8a12;
   animation: blinker 2s ease-in infinite;
 }
-.image_put::after {
+.image_put::before {
   opacity: 1;
   content: "05/07/2023 to 04/08/2023";
   position: relative;
