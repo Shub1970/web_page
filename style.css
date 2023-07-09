@@ -56,7 +56,7 @@ img {
   font-weight: bold;
   font-size: small;
 }
-.image_put::befor {
+.bottom::befor {
   opacity: 1;
   content: "05/07/2023 to 04/08/2023";
   position: relative;
