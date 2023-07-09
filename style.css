@@ -70,13 +70,13 @@ img {
   animation: blinker 2s ease-in infinite;
 }
 .valid{
-  font-family: 'Open Sans', sans-serif;
-  color:red;
-  top: -201px;
-  font-weight: bold;
-  right: -69px;
-  position: absolute;
-  font-size: 19px;
+    font-family: 'Open Sans', sans-serif;
+    color: red;
+    top: 516px;
+    font-weight: bold;
+    right: 38px;
+    position: absolute;
+    font-size: 19px;
 }
 @keyframes blinker {
   100% {
