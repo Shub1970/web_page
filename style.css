@@ -68,18 +68,7 @@ img {
   color: #2f8a12;
   animation: blinker 2s ease-in infinite;
 }
-.image_put::before {
-  opacity: 1;
-  content: "05/07/2023 to 04/08/2023";
-  position: relative;
-  left: 85px;
-  bottom: 200px;
-  display: block;
-  font-size: 15px;
-  font-weight: bold;
-  font-family: 'Open Sans', sans-serif;  
-  color: red;
-}
+
 @keyframes blinker {
   100% {
     opacity: 0;
