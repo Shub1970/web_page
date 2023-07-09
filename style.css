@@ -61,8 +61,8 @@ img {
   opacity: 1;
   content: "7507042350138";
   position: relative;
-  left: 83px;
-  bottom: 229px;
+  left: 74px;
+  bottom: 223px;
   display: block;
   font-size: 25px;
   font-weight: bold;
@@ -74,7 +74,7 @@ font-family: 'Open Sans', sans-serif;
     color: red;
     top: 491px;
     font-weight: bold;
-    right: 24px;
+    right: 21px;
     position: absolute;
     font-size: 19px;
 }
