@@ -70,11 +70,11 @@ img {
   animation: blinker 2s ease-in infinite;
 }
 .valid{
-    font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
     color: red;
-    top: 516px;
+    top: 491px;
     font-weight: bold;
-    right: 38px;
+    right: 25px;
     position: absolute;
     font-size: 19px;
 }
